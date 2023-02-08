@@ -5,6 +5,10 @@ AtliQ Marts(Hypothetical company) is FMCG manufacturer in Gujarat India. This pr
 This project was one of the challenges by codebasics.
 You can get the dataset from [here](https://codebasics.io/event/codebasics-resume-project-challenge)
 
+## Home
+![Home](https://user-images.githubusercontent.com/84430963/217562599-07b35028-4b70-4523-a4a7-e9a32ec394ec.png)
+
+
 ## Orders and Metrics
 ![Orders and Metrics](https://user-images.githubusercontent.com/84430963/217560451-8e28c4b1-5fe3-4400-a3a3-8806a8d962b8.png)
 
