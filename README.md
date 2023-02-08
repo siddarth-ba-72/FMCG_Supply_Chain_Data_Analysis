@@ -3,7 +3,7 @@
 AtliQ Marts(Hypothetical company) is FMCG manufacturer in Gujarat India. This project contains the detailed Data Analysis on its Supply Chain performance. Maintaining a good supply chain is very challenging in fmcg sector.
 
 This project was one of the challenges by codebasics.
-You can get the dataset from ![here](https://codebasics.io/event/codebasics-resume-project-challenge)
+You can get the dataset from [here](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 ![Orders and Metrics](https://user-images.githubusercontent.com/84430963/217560451-8e28c4b1-5fe3-4400-a3a3-8806a8d962b8.png)
 ![Metrics by Customer](https://user-images.githubusercontent.com/84430963/217560460-35d207ec-97aa-4e14-8276-41a32fdf3898.png)
